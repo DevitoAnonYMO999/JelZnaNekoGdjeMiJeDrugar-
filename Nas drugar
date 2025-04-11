@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ko je Matija Stanic</title>
+    <style>
+        h1{
+            color: yellow;
+        }
+        h2{
+            color: yellow;
+        }
+        p{
+            color: red;
+        }
+        body{
+            background-image: url(oldairport3.jpeg);
+            background-size: cover;
+            font-size: large;
+            font-style: italic;    
+        }
+    </style>
+</head>
+<body>
+    <h1>Matija Stanic je crna kinescina obicna jebem ga usta copava</h1>
+    <p></p>
+    <h2>Matija je druzeljubiv i voli da ga ducka</h2>
+    <p>1. Matija Stanic</p>
+    <img src="{FA2EA0A2-1C70-4D8E-89D8-DB2571590BFD}.png">
+    <img src="{18998AE8-C37F-40B4-866E-5B594F5E7E57}.png">
+    <img src="{7F66B6AA-2C58-4778-BA4F-7C82A9498471}.png">
+    
+</body>
+</html>
